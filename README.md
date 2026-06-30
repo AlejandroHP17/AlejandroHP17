@@ -34,7 +34,6 @@ Construyo aplicaciones nativas para **retail y fintech**. Contribuí al desarrol
 |----------|-------------|-------|
 | [**PlanAlimenticioKMP**](https://github.com/AlejandroHP17/PlanAlimenticioKMP) | Catálogo nutricional SMAE multiplataforma (Android + iOS) | KMP, Compose Multiplatform, SQLDelight, Koin |
 | [**RegistroEducativo**](https://github.com/AlejandroHP17/RegistroEducativo) | Gestión académica para profesores con backend REST | Compose, Clean Architecture, Retrofit, Koin |
-| [**App_Dieta**](https://github.com/AlejandroHP17/App_Dieta) | Versión Android del catálogo SMAE | Compose, Room, MVVM, Koin |
 | [**ControlTotalPlay**](https://github.com/AlejandroHP17/ControlTotalPlay) | Control remoto Wear OS para decodificadores TotalPlay | Wear Compose, Coroutines, MVVM |
 
 ---
