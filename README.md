@@ -6,7 +6,7 @@ Construyo aplicaciones nativas para **retail y fintech**. Contribuí al desarrol
 
 📍 Tlalnepantla de Baz, México · 🔭 Abierto a oportunidades Android/Kotlin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Hernández-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-hernandez-pelcastre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Hernández-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-pelcastre/)
 [![Email](https://img.shields.io/badge/Email-alejandro.pelcastre54%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alejandro.pelcastre54@gmail.com)
 
 ---
@@ -57,6 +57,6 @@ Construyo aplicaciones nativas para **retail y fintech**. Contribuí al desarrol
 
 ## Contacto
 
-- 💼 [LinkedIn](https://linkedin.com/in/alejandro-hernandez-pelcastre)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-pelcastre/)
 - 📧 alejandro.pelcastre54@gmail.com
 - 📄 [CV / portafolio](https://github.com/AlejandroHP17)
