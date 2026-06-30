@@ -1,6 +1,6 @@
 # Hola, soy Alejandro Hernández 👋
 
-**Desarrollador Android** · Kotlin · Jetpack Compose · Clean Architecture
+**Semi Senior Android Developer** · Kotlin · Jetpack Compose
 
 Construyo aplicaciones nativas para **retail y fintech**. Contribuí al desarrollo de la app **Elektra** en Google Play (**1M+ usuarios**), integrando pagos in-app, mapas y checkout con arquitectura limpia y monitoreo en producción.
 
